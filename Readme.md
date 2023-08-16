@@ -1,3 +1,5 @@
-# this is our first respiritory
+# this is our first repository
 
 additional information
+
+some more information
